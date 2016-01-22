@@ -22,25 +22,25 @@ http://127.0.0.1
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/MalaHalah/cbeebies.png" group-title="Zona Niños",CBEEBIES BBC
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://cdn.fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="Zona Niños",DISNEY JUNIOR
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",NICK JR
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/nickjrintel/images/2/2b/Nick-jr-logo.jpg/revision/latest/scale-to-width-down/640?cb=20120107163959" group-title="Zona Niños",NICK JR
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="http://www.adweek.com/files/imagecache/node-detail/news_article/disney-hed-2014.jpg" group-title="Zona Niños",DISNEY CHANNEL
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",NICKS TOONS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/640px-Nicktoons_2014_logo.svg.png" group-title="Zona Niños",NICKS TOONS
 http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",NICK HD
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/af/Nick_HD.png/revision/latest?cb=20110408020626" group-title="Zona Niños",NICK HD
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",NICK
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/10/Nick.svg/revision/latest/scale-to-width-down/640?cb=20111001153748" group-title="Zona Niños",NICK
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/640?cb=20111202140403" group-title="Zona Niños",CARTOON NETWORK
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",DISNEY XD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e7/DXD_2015.svg/revision/latest/scale-to-width-down/640?cb=20151125051611" group-title="Zona Niños",DISNEY XD
 http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",BOOMERANG
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/606?cb=20150214053855" group-title="Zona Niños",BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",TIIN
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/ca/Logo_tiin.png/revision/latest/scale-to-width-down/640?cb=20150629225008&path-prefix=es" group-title="Zona Niños",TIIN
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",TOON CAST
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/6/66/Tooncast.png/revision/latest/scale-to-width-down/640?cb=20130204182635&path-prefix=es" group-title="Zona Niños",TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
