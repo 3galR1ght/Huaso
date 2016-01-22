@@ -18,9 +18,9 @@ http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6c
 
 #EXTINF:0,[COLOR green]Zona Niños[/COLOR] 
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="http://www.dkids.asia/uploads/Dkids-Placeholder.jpg" group-title="Zona Niños",DISCOVERY KIDS
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",CBEEBIES BBC
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/MalaHalah/cbeebies.png" group-title="Zona Niños",CBEEBIES BBC
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Zona Niños",DISNEY JUNIOR
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
