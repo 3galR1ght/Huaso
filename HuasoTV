@@ -2,5 +2,5 @@
 #EXTINF:0,-[COLOR red]HuasoTV[/COLOR]-
 #EXTINF:0,-[COLOR blue]Bienvenidos a todos![/COLOR]-
 
-#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/diseno/gfx/footer_logotvn2.png" group-title="Chile",TVN 
+#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/diseno/gfx/footer_logotvn2.png" group-title="Chile",TVN -[COLOR blue]SD[/COLOR]- 
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
