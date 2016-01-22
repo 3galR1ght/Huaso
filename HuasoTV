@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,[COLOR red]**********HuasoTV**********[/COLOR]
+#EXTINF:0,[COLOR red]//////////----------HuasoTV----------\\\\\\\\\\[/COLOR]
 #EXTINF:0,-Nada-
 #EXTINF:0,[COLOR cyan]Actualizado el 22 de Enero de 2016[/COLOR] 
 http://127.0.0.1
@@ -9,5 +9,5 @@ http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN 
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/TV_Chile#/media/File:TVChile_logo.png" group-title="NACIONALES",TV Chile
+#EXTINF:-1 tvg-logo="http://estaticos.tvchile.cl/skins/images/logo.jpg" group-title="NACIONALES",TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
