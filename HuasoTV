@@ -57,15 +57,15 @@ http://127.0.0.1
 http://tunein.digitalproserver.com/agc921bb.aac
 #EXTINF:-1 tvg-logo="http://radiolaclave.cl/wp-content/themes/zion/img/covers/all.png" group-title="Radio", La Clave 92.9
 http://tunein.digitalproserver.com/laclavebb.aac
+#EXTINF:-1 tvg-logo="http://www.cooperativa.cl/noticias/imag/fotos/logo_cooperativa.jpg" group-title="Radios",Cooperativa 93.3
+http://tunein.digitalproserver.com/cooperativabb.aac
 #EXTINF:-1 tvg-logo="http://www.radiozero.cl/assets/img/logo-zero-light.png" group-title="Radio", Zero 97.7
 http://190.153.242.134/playlist/zero/chunk_ts.m3u8
-#EXTINF:-1 tvg-logo="http://www.fmdos.cl/wp-content/themes/wilsonriver/inc/img/fmdos.svg" group-title="Radio", FMDos 98.5
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/27/poster_220x220-2.jpg" group-title="Radio", FMDos 98.5
 http://63.243.143.145/FMDOS_SC
-#EXTINF:-1 tvg-logo="http://www.biobiochile.cl/assets/img/logo-rbb.png" group-title="Radio", Bio Bio Santiago 99.7
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/17/poster_150x150-2.jpg" group-title="Radio", Bio Bio Santiago 99.7
 http://ice.dallas.digitalproserver.com/biostgo
 #EXTINF:-1 tvg-logo="http://oasisfm-int.janus.cl//app_janus/uploads/programas/563b6b91edcd7.jpg" group-title="Radio", Oasis 102.1
-http://oasisfm-int.janus.cl/oasisfm/flv/oasisfm_config.flv
+http://mp3.oasisfm.cl/
 #EXTINF:-1 tvg-logo="http://www.romantica.cl/wp-content/themes/romantica/_includes/img/logo.png" group-title="Radio", Romantica 104.1
 http://tunein.digitalproserver.com/romanticabb.mp3
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s13818q.png" group-title="Radios",Cooperativa 106.7
-http://tunein.digitalproserver.com/cooperativabb.aac
