@@ -61,16 +61,22 @@ http://5923.live.streamtheworld.com:443/CONCIERTO
 http://5923.live.streamtheworld.com:443/FUTURO
 #EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/49e07181f2b74dbad09d7960dcf639cb07162506.png" group-title="Radio", Duna 89.7
 http://tunein.digitalproserver.com/dunabb.aac
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2962748516/c89c4dc485d4518d27e46180ecd17975_400x400.jpeg" group-title="Radio", Pudahuel FM 90.5
+http://7349.live.streamtheworld.com/PUDAHUEL_SC
 #EXTINF:-1 tvg-logo="http://www.elconquistador.cl/resources/images/general/logo.png" group-title="Radio", El Conquistador FM 91.3
-http://tunein.digitalproserver.com/elconquistadorbb.aac
+http://stream5.eltelon.com/el-conquistador-santiago.aac?type=.mp3
 #EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="Radio", ADN Radio Chile 91.7
 http://5923.live.streamtheworld.com:443/ADN_SC
 #EXTINF:-1 tvg-logo="http://www.radioagricultura.cl/wp-content/themes/radioagricultura/images/logo-radio-agricultura.png" group-title="Radio", Agricultura 92.1
 http://tunein.digitalproserver.com/agc921bb.aac
+#EXTINF:-1 tvg-logo="http://www.radioactiva.cl/wp-content/themes/radioactiva-cl/images/logo-activa2013.png" group-title="Radio", Radio Activa 92.5
+http://7349.live.streamtheworld.com/ACTIVA_SC
 #EXTINF:-1 tvg-logo="http://radiolaclave.cl/wp-content/themes/zion/img/covers/all.png" group-title="Radio", La Clave 92.9
 http://tunein.digitalproserver.com/laclavebb.aac
 #EXTINF:-1 tvg-logo="http://www.cooperativa.cl/noticias/imag/fotos/logo_cooperativa.jpg" group-title="Radios",Cooperativa 93.3
 http://tunein.digitalproserver.com/cooperativabb.aac
+#EXTINF:-1 tvg-logo="http://www.rockandpop.cl/wp-content/themes/rock-and-pop-cl/v2/img/lo-rpx270.jpg" group-title="Radios", Rock & Pop 94.1
+http://7349.live.streamtheworld.com/ROCK_AND_POP_SC
 #EXTINF:-1 tvg-logo="http://www.fmtiempo.cl/wp-content/uploads/2014/08/logotiempo.png" group-title="Radio", FM Tiempo 95.9
 http://tunein.digitalproserver.com/fmtiempobb.aac
 #EXTINF:-1 tvg-logo="http://www.radiozero.cl/assets/img/logo-zero-light.png" group-title="Radio", Zero 97.7
@@ -87,3 +93,5 @@ http://mp3.oasisfm.cl/
 http://radio.cl.mediastre.am/horizonte.aac
 #EXTINF:-1 tvg-logo="http://www.romantica.cl/wp-content/themes/romantica/_includes/img/logo.png" group-title="Radio", Romantica 104.1
 http://tunein.digitalproserver.com/romanticabb.mp3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/522855212558479361/IRtdOdTy_400x400.jpeg" group-title="Radio", Sonar FM 105.3
+http://mp3.sonarfm.cl/;*.mp3
