@@ -15,10 +15,10 @@ http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/TVChile_logo.png" group-title="Chile",TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="Chile",Mega 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="Chile",Mega HD
 http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 
-#EXTINF:0,""
+#EXTINF:0,
 http://127.0.0.1
 #EXTINF:0,[COLOR green]Zona Niños[/COLOR] 
 http://127.0.0.1
@@ -48,3 +48,10 @@ http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/6/66/Tooncast.png/revision/latest/scale-to-width-down/640?cb=20130204182635&path-prefix=es" group-title="Zona Niños",TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:0,
+http://127.0.0.1
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios", -[COLOR white]Radios[/COLOR]-
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://www.vocescatolicas.cl/wp-content/themes/newssetter-parent/framework/…uploads%2F2014%2F05%2Flogo-cooperativa-cuadrado.jpg&h=412&w=620&zc=1&q=100" group-title="Radios",Cooperativa
+http://tunein.digitalproserver.com/cooperativa.aac
