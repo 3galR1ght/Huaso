@@ -53,12 +53,18 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://127.0.0.1
 #EXTINF:0, [COLOR white]Radios[/COLOR]
 http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="Radio", ADN Radio Chile 91.7
+http://5923.live.streamtheworld.com:443/ADN_SC
+#EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="Radio", ADN Radio Chile 91.7
+http://5873.live.streamtheworld.com/ADN.mp3
 #EXTINF:-1 tvg-logo="http://www.radioagricultura.cl/wp-content/themes/radioagricultura/images/logo-radio-agricultura.png" group-title="Radio", Agricultura 92.1
 http://tunein.digitalproserver.com/agc921bb.aac
 #EXTINF:-1 tvg-logo="http://radiolaclave.cl/wp-content/themes/zion/img/covers/all.png" group-title="Radio", La Clave 92.9
 http://tunein.digitalproserver.com/laclavebb.aac
 #EXTINF:-1 tvg-logo="http://www.cooperativa.cl/noticias/imag/fotos/logo_cooperativa.jpg" group-title="Radios",Cooperativa 93.3
 http://tunein.digitalproserver.com/cooperativabb.aac
+#EXTINF:-1 tvg-logo="http://www.fmtiempo.cl/wp-content/uploads/2014/08/logotiempo.png" group-title="Radio", FM Tiempo 95.9
+http://tunein.digitalproserver.com/fmtiempobb.aac
 #EXTINF:-1 tvg-logo="http://www.radiozero.cl/assets/img/logo-zero-light.png" group-title="Radio", Zero 97.7
 http://190.153.242.134/playlist/zero/chunk_ts.m3u8
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/27/poster_220x220-2.jpg" group-title="Radio", FMDos 98.5
