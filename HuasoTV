@@ -57,3 +57,5 @@ http://127.0.0.1
 http://tunein.digitalproserver.com/cooperativabb.aac
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s2424q.png" group-title="Radio", Bio Bio Santiago
 http://ice.dallas.digitalproserver.com/biostgo
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s224945q.png" group-title="Radio", La Clave 92.9
+http://tunein.digitalproserver.com/laclavebb.aac
