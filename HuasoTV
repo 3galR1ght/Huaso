@@ -51,7 +51,10 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:0,
 http://127.0.0.1
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios", -[COLOR white]Radios[/COLOR]-
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios", -[COLOR white]Radios[/COLOR]-
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="http://www.vocescatolicas.cl/wp-content/themes/newssetter-parent/framework/…uploads%2F2014%2F05%2Flogo-cooperativa-cuadrado.jpg&h=412&w=620&zc=1&q=100" group-title="Radios",Cooperativa
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s13818q.png" group-title="Radios",Cooperativa
 http://tunein.digitalproserver.com/cooperativa.aac
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s2424q.png" group-title="Radio", Bio Bio Santiago
+http://ice.dallas.digitalproserver.com/biostgo
