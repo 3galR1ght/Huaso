@@ -54,6 +54,6 @@ http://127.0.0.1
 #EXTINF:0,[COLOR whiten]Radios[/COLOR] 
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s13818q.png" group-title="Radios",Cooperativa
-http://tunein.digitalproserver.com/cooperativa.aac
+http://tunein.digitalproserver.com/cooperativabb.aac
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s2424q.png" group-title="Radio", Bio Bio Santiago
 http://ice.dallas.digitalproserver.com/biostgo
