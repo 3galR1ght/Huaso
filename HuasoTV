@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,[COLOR red]//////////----------HuasoTV----------\\\\\\\\\\[/COLOR]
 #EXTINF:0,-Nada-
-#EXTINF:0,[COLOR cyan]Actualizado el 25 de Enero de 2016[/COLOR] 
+#EXTINF:0,[COLOR cyan]Actualizado el 26 de Enero de 2016[/COLOR] 
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Chile",La Red 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
@@ -53,11 +53,11 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://127.0.0.1
 #EXTINF:0, [COLOR white]Radios[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="http://www.radioimagina.cl/wp-content/themes/radio-imagina/images/logo-imagina.png" group-title="Radio", 88.1 Radio Imagina
+#EXTINF:-1 tvg-logo="http://www.radioimagina.cl/wp-content/themes/radio-imagina/images/logo-imagina.png" group-title="Radio", 88.1 Radio Imagina 
 http://63.243.143.155/IMAGINA_SC
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/Radioconcierto1.png/revision/latest?cb=20120325004734" group-title="Radio", 88.5 Concierto
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/Radioconcierto1.png/revision/latest?cb=20120325004734" group-title="Radio", 88.5 Concierto 
 http://5923.live.streamtheworld.com:443/CONCIERTO
-#EXTINF:-1 tvg-logo="http://www.futuro.cl/files/2012/02/logo-futuro.jpg" group-title="Radio", 88.9 Futuro
+#EXTINF:-1 tvg-logo="http://www.futuro.cl/files/2012/02/logo-futuro.jpg" group-title="Radio", 88.9 Futuro 
 http://5923.live.streamtheworld.com:443/FUTURO
 #EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/49e07181f2b74dbad09d7960dcf639cb07162506.png" group-title="Radio", 89.7 Duna 
 http://tunein.digitalproserver.com/dunabb.aac
@@ -73,20 +73,36 @@ http://tunein.digitalproserver.com/agc921bb.aac
 http://7349.live.streamtheworld.com/ACTIVA_SC
 #EXTINF:-1 tvg-logo="http://radiolaclave.cl/wp-content/themes/zion/img/covers/all.png" group-title="Radio", 92.9 La Clave 
 http://tunein.digitalproserver.com/laclavebb.aac
-#EXTINF:-1 tvg-logo="http://www.cooperativa.cl/noticias/imag/fotos/logo_cooperativa.jpg" group-title="Radios", 93.3 Cooperativa 
+#EXTINF:-1 tvg-logo="http://www.cooperativa.cl/noticias/imag/fotos/logo_cooperativa.jpg" group-title="Radios",93.3 Cooperativa 
 http://tunein.digitalproserver.com/cooperativabb.aac
 #EXTINF:-1 tvg-logo="http://www.rockandpop.cl/wp-content/themes/rock-and-pop-cl/v2/img/lo-rpx270.jpg" group-title="Radios", 94.1 Rock & Pop 
 http://7349.live.streamtheworld.com/ROCK_AND_POP_SC
+#EXTINF:-1 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/logoCandela.png" group-title="Radio", 95.3 Candela FM 
+http://tunein.digitalproserver.com/candelabb.aac
 #EXTINF:-1 tvg-logo="http://www.fmtiempo.cl/wp-content/uploads/2014/08/logotiempo.png" group-title="Radio", 95.9 FM Tiempo 
 http://tunein.digitalproserver.com/fmtiempobb.aac
+#EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/8748d09e5106f7cde72238254479942806192055.png" group-title="Radio", 96.5 Beethoven FM 
+http://tunein.digitalproserver.com/beethovenbb.aac
+#EXTINF:-1 tvg-logo="http://www.radiounochile.cl/wp-content/assets-generales/og_radiouno.jpg" group-title="Radio", 97.1 Radio Uno Musica Chilena
+http://5133.live.streamtheworld.com/RADIO_UNOAAC
 #EXTINF:-1 tvg-logo="http://www.radiozero.cl/assets/img/logo-zero-light.png" group-title="Radio", 97.7 Zero 
 http://190.153.242.134/playlist/zero/chunk_ts.m3u8
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/27/poster_220x220-2.jpg" group-title="Radio", 98.5 FMDos 
 http://63.243.143.145/FMDOS_SC
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-AkECb3Mb2Yc/TwDZ4YViNhI/AAAAAAAAAdk/X4wZdhnGMVA/s1600/radio+carolina.png" group-title="Radio", 99.3 Carolina 
 http://ice.digitalproserver.com/carolinafm.aac
-#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/17/poster_150x150-2.jpg" group-title="Radio", 99.7 Bio Bio 
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/17/poster_150x150-2.jpg" group-title="Radio", 99.7 Bio Bio Santiago 
 http://ice.dallas.digitalproserver.com/biostgo
+#EXTINF:-1 tvg-logo="http://www.infinita.cl/wp-content/themes/infinita/img/logo.png" group-title="Radio", 100.1 Infinita
+rtmp://wow1.dallas.digitalproserver.com:80/infinita/infinitalive/infinita.stream
+#EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/2167ee402a4936be8e6e739b21403fae28201009.png" group-title="Radio", 100.5 Radio Paula
+http://tunein.digitalproserver.com/radiopaula_player.mp3
+#EXTINF:-1 tvg-logo="http://playfm-int.janus.cl//app_janus/uploads/programas/563b6b4a762a5.jpg" group-title="Radio", 100.9 Play FM
+http://mp3.playfm.cl/;*.mp3
+#EXTINF:-1 tvg-logo="http://www.corazon.cl/wp-content/themes/corazon_2013/img/logo-corazon-home.png" group-title="Radio", 101.3 Radio Corazón
+http://5923.live.streamtheworld.com:443/CORAZON
+#EXTINF:-1 tvg-logo="http://los40es00.epimg.net/los40/iconos/v1.x/v1.0/logos/logo_cabecera_40.png" group-title="Radio", 101.7 Los 40 Principales
+http://5923.live.streamtheworld.com:443/LOS40_CHILE
 #EXTINF:-1 tvg-logo="http://oasisfm-int.janus.cl//app_janus/uploads/programas/563b6b91edcd7.jpg" group-title="Radio", 102.1 Oasis 
 http://mp3.oasisfm.cl/
 #EXTINF:-1 tvg-logo="http://caostv.cl/site/wp-content/uploads/2013/03/radio-horizonte.png" group-title="Radio", 103.3 Horizonte 
