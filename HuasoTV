@@ -93,7 +93,7 @@ http://63.243.143.145/FMDOS_SC
 http://ice.digitalproserver.com/carolinafm.aac
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/17/poster_150x150-2.jpg" group-title="Radio", 99.7 Bio Bio Santiago 
 http://ice.dallas.digitalproserver.com/biostgo
-#EXTINF:-1 tvg-logo="http://www.infinita.cl/wp-content/themes/infinita/img/logo.png" group-title="Radio", 100.1 Infinita
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/9D5XqlxXpUcCO8Z47T23_bIP8Glz1heahS8hOrBwuZnQj2pshslOYdLqMug96ydS9A4f=w300" group-title="Radio", 100.1 Infinita
 rtmp://wow1.dallas.digitalproserver.com:80/infinita/infinitalive/infinita.stream
 #EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/2167ee402a4936be8e6e739b21403fae28201009.png" group-title="Radio", 100.5 Radio Paula
 http://tunein.digitalproserver.com/radiopaula_player.mp3
