@@ -3,6 +3,8 @@
 #EXTINF:0,-Nada-
 #EXTINF:0,[COLOR cyan]Actualizado el 26 de Enero de 2016[/COLOR] 
 http://127.0.0.1
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES",NRK 1
+http://tv.nrk.no:80/direkte/nrk1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red
