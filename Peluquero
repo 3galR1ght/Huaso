@@ -39,7 +39,7 @@ http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:0,
-#EXTINF:0, [COLOR white]Radios[/COLOR]
+#EXTINF:0, [COLOR cyan]Radios[/COLOR]
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="http://www.radioimagina.cl/wp-content/themes/radio-imagina/images/logo-imagina.png" group-title="Radio", 88.1 Radio Imagina 
 http://63.243.143.155/IMAGINA_SC
