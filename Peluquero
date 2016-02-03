@@ -1,6 +1,6 @@
-#EXTM3U:
-#EXTINF:0, [COLOR red]//////////----------Armando----------\\\\\\\\\\[/COLOR]
-#EXTINF:0, [COLOR cyan]Actualizado el 29 de Enero de 2016[/COLOR] 
+#EXTM3U
+#EXTINF:-1, [COLOR red]//////////----------Armando----------\\\\\\\\\\[/COLOR]
+#EXTINF:-1, [COLOR cyan]Actualizado el 29 de Enero de 2016[/COLOR] 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red
@@ -34,9 +34,9 @@ http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL DE LAS ESTRELLAS HD
 http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:0,
-#EXTINF:0, [COLOR cyan]Radios[/COLOR]
+#EXTINF:-1,
 http://127.0.0.1
+#EXTINF:-1, [COLOR cyan]Radios[/COLOR]
 #EXTINF:-1 tvg-logo="http://www.radioimagina.cl/wp-content/themes/radio-imagina/images/logo-imagina.png" group-title="Radio", 88.1 Radio Imagina 
 http://63.243.143.155/IMAGINA_SC
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/Radioconcierto1.png/revision/latest?cb=20120325004734" group-title="Radio", 88.5 Concierto 
