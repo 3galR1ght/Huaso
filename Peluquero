@@ -1,1 +1,100 @@
-Mmm
+#EXTINF:0,[COLOR red]//////////----------Armando----------\\\\\\\\\\[/COLOR]
+#EXTINF:0,[COLOR cyan]Actualizado el 29 de Enero de 2016[/COLOR] 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/BratuMarian.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Chile",UCV 
+rtmp://wow1.dallas.digitalproserver.com:80/ucvtv/livestream1
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN HD
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN HD
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TV Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/TVChile_logo.png" group-title="Chile",TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="Chile",Mega HD
+http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://www.infobierzo.com/wp-content/themes/Infobierzo2015/images/tv1.png" group-title="ESPAÑA",La 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://r11.imgfast.net/users/1114/10/46/39/album/tve2lo10.png" group-title="ESPAÑA",La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E0b15cZ__gs/VVRiESZXOvI/AAAAAAAACbs/C0ftdkDYiSk/s200/antena3%2BALEA.png" group-title="ESPAÑA",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/MEGA_zpshdpgggua.png" group-title="ESPAÑA", Mega 
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://files.encontraronline.webnode.es/200000368-42fa743441/LA%20SEXTA.png" group-title="ESPAÑA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,GALA TV HD
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL DE LAS ESTRELLAS HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL DE LAS ESTRELLAS HD
+http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:0,
+#EXTINF:0, [COLOR white]Radios[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://www.radioimagina.cl/wp-content/themes/radio-imagina/images/logo-imagina.png" group-title="Radio", 88.1 Radio Imagina 
+http://63.243.143.155/IMAGINA_SC
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/Radioconcierto1.png/revision/latest?cb=20120325004734" group-title="Radio", 88.5 Concierto 
+http://5923.live.streamtheworld.com:443/CONCIERTO
+#EXTINF:-1 tvg-logo="http://www.futuro.cl/files/2012/02/logo-futuro.jpg" group-title="Radio", 88.9 Futuro 
+http://5923.live.streamtheworld.com:443/FUTURO
+#EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/49e07181f2b74dbad09d7960dcf639cb07162506.png" group-title="Radio", 89.7 Duna 
+http://tunein.digitalproserver.com/dunabb.aac
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2962748516/c89c4dc485d4518d27e46180ecd17975_400x400.jpeg" group-title="Radio", 90.5 Pudahuel FM 
+http://7349.live.streamtheworld.com/PUDAHUEL_SC
+#EXTINF:-1 tvg-logo="http://www.elconquistador.cl/resources/images/general/logo.png" group-title="Radio", 91.3 El Conquistador FM 
+http://stream5.eltelon.com/el-conquistador-santiago.aac?type=.mp3
+#EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="Radio", 91.7 ADN Radio Chile 
+http://5923.live.streamtheworld.com:443/ADN_SC
+#EXTINF:-1 tvg-logo="http://www.radioagricultura.cl/wp-content/themes/radioagricultura/images/logo-radio-agricultura.png" group-title="Radio", 92.1 Agricultura 
+http://tunein.digitalproserver.com/agc921bb.aac
+#EXTINF:-1 tvg-logo="http://www.radioactiva.cl/wp-content/themes/radioactiva-cl/images/logo-activa2013.png" group-title="Radio", 92.5 Radio Activa 
+http://7349.live.streamtheworld.com/ACTIVA_SC
+#EXTINF:-1 tvg-logo="http://radiolaclave.cl/wp-content/themes/zion/img/covers/all.png" group-title="Radio", 92.9 La Clave 
+http://tunein.digitalproserver.com/laclavebb.aac
+#EXTINF:-1 tvg-logo="http://www.cooperativa.cl/noticias/imag/fotos/logo_cooperativa.jpg" group-title="Radios",93.3 Cooperativa 
+http://tunein.digitalproserver.com/cooperativabb.aac
+#EXTINF:-1 tvg-logo="http://www.rockandpop.cl/wp-content/themes/rock-and-pop-cl/v2/img/lo-rpx270.jpg" group-title="Radios", 94.1 Rock & Pop 
+http://7349.live.streamtheworld.com/ROCK_AND_POP_SC
+#EXTINF:-1 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/logoCandela.png" group-title="Radio", 95.3 Candela FM 
+http://tunein.digitalproserver.com/candelabb.aac
+#EXTINF:-1 tvg-logo="http://www.fmtiempo.cl/wp-content/uploads/2014/08/logotiempo.png" group-title="Radio", 95.9 FM Tiempo 
+http://tunein.digitalproserver.com/fmtiempobb.aac
+#EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/8748d09e5106f7cde72238254479942806192055.png" group-title="Radio", 96.5 Beethoven FM 
+http://tunein.digitalproserver.com/beethovenbb.aac
+#EXTINF:-1 tvg-logo="http://www.radiounochile.cl/wp-content/assets-generales/og_radiouno.jpg" group-title="Radio", 97.1 Radio Uno Musica Chilena
+http://5133.live.streamtheworld.com/RADIO_UNOAAC
+#EXTINF:-1 tvg-logo="http://www.radiozero.cl/assets/img/logo-zero-light.png" group-title="Radio", 97.7 Zero 
+http://190.153.242.134/playlist/zero/chunk_ts.m3u8
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/27/poster_220x220-2.jpg" group-title="Radio", 98.5 FMDos 
+http://63.243.143.145/FMDOS_SC
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-AkECb3Mb2Yc/TwDZ4YViNhI/AAAAAAAAAdk/X4wZdhnGMVA/s1600/radio+carolina.png" group-title="Radio", 99.3 Carolina 
+http://ice.digitalproserver.com/carolinafm.aac
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/17/poster_150x150-2.jpg" group-title="Radio", 99.7 Bio Bio Santiago 
+http://ice.dallas.digitalproserver.com/biostgo
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/9D5XqlxXpUcCO8Z47T23_bIP8Glz1heahS8hOrBwuZnQj2pshslOYdLqMug96ydS9A4f=w300" group-title="Radio", 100.1 Infinita
+rtmp://wow1.dallas.digitalproserver.com:80/infinita/infinitalive/infinita.stream
+#EXTINF:-1 tvg-logo="http://players.grupodial.cl/player/radio/img/2167ee402a4936be8e6e739b21403fae28201009.png" group-title="Radio", 100.5 Radio Paula
+http://tunein.digitalproserver.com/radiopaula_player.mp3
+#EXTINF:-1 tvg-logo="http://playfm-int.janus.cl//app_janus/uploads/programas/563b6b4a762a5.jpg" group-title="Radio", 100.9 Play FM
+http://mp3.playfm.cl/;*.mp3
+#EXTINF:-1 tvg-logo="http://www.corazon.cl/wp-content/themes/corazon_2013/img/logo-corazon-home.png" group-title="Radio", 101.3 Radio Corazón
+http://5923.live.streamtheworld.com:443/CORAZON
+#EXTINF:-1 tvg-logo="http://los40es00.epimg.net/los40/iconos/v1.x/v1.0/logos/logo_cabecera_40.png" group-title="Radio", 101.7 Los 40 Principales
+http://5923.live.streamtheworld.com:443/LOS40_CHILE
+#EXTINF:-1 tvg-logo="http://oasisfm-int.janus.cl//app_janus/uploads/programas/563b6b91edcd7.jpg" group-title="Radio", 102.1 Oasis 
+http://mp3.oasisfm.cl/
+#EXTINF:-1 tvg-logo="http://caostv.cl/site/wp-content/uploads/2013/03/radio-horizonte.png" group-title="Radio", 103.3 Horizonte 
+http://radio.cl.mediastre.am/horizonte.aac
+#EXTINF:-1 tvg-logo="http://www.romantica.cl/wp-content/themes/romantica/_includes/img/logo.png" group-title="Radio", 104.1 Romantica 
+http://tunein.digitalproserver.com/romanticabb.mp3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/522855212558479361/IRtdOdTy_400x400.jpeg" group-title="Radio", 105.3 Sonar FM 
+http://mp3.sonarfm.cl/;*.mp3
