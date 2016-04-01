@@ -21,9 +21,8 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="Chile",Mega HD
 http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Chile",Coco
+#EXTINF:0 tvg-logo="" group-title="Chile",Coco
 http://www.tvn.cl/programas/coco45/capitulos/capitulo-1-coco-45-anos--1950230
-
 #EXTINF:0,
 http://127.0.0.1
 #EXTINF:0, [COLOR white]Radios[/COLOR]
