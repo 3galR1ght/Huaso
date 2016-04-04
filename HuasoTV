@@ -21,8 +21,24 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="Chile",Mega HD
 http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Chile",Coco
-http://www.tvn.cl/programas/coco45/capitulos/capitulo-1-coco-45-anos--1950230
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://www.infobierzo.com/wp-content/themes/Infobierzo2015/images/tv1.png" group-title="ESPAÑA",La 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://r11.imgfast.net/users/1114/10/46/39/album/tve2lo10.png" group-title="ESPAÑA",La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E0b15cZ__gs/VVRiESZXOvI/AAAAAAAACbs/C0ftdkDYiSk/s200/antena3%2BALEA.png" group-title="ESPAÑA",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/MEGA_zpshdpgggua.png" group-title="ESPAÑA", Mega 
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://files.encontraronline.webnode.es/200000368-42fa743441/LA%20SEXTA.png" group-title="ESPAÑA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,GALA TV HD
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL DE LAS ESTRELLAS HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL DE LAS ESTRELLAS HD
+http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:0,
 http://127.0.0.1
 #EXTINF:0, [COLOR white]Radios[/COLOR]
