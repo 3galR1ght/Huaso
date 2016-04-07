@@ -25,7 +25,7 @@ http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6c
 http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Chv2015.png/revision/latest?cb=20150109180214" group-title="Chile",CHV HD
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
-#EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Chv2015.png/revision/latest?cb=20150109180214" group-title="Chile",CHV
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Chv2015.png/revision/latest?cb=20150109180214" group-title="Chile",CHV
 http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 #EXTINF:-1 tvg-logo="http://www.infobierzo.com/wp-content/themes/Infobierzo2015/images/tv1.png" group-title="España",La 1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
@@ -49,6 +49,8 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="http://i2.esmas.com/img/canal-de-las-estrellas/l_canal2_sitio.png" group-title="America" ,Canal de las Estrellas HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/hd/4594e24678452.5601f52106076.png" group-title="America" ,Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 
 
 #EXTINF:0,
