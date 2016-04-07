@@ -8,7 +8,9 @@ http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Chile",UCV 
-rtmp://wow1.dallas.digitalproserver.com:80/ucvtv/livestream1
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Chile",UCV
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b848000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN HD
@@ -21,6 +23,10 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="Chile",Mega HD
 http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Chv2015.png/revision/latest?cb=20150109180214" group-title="Chile",CHV HD
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Chv2015.png/revision/latest?cb=20150109180214" group-title="Chile",CHV
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 #EXTINF:-1 tvg-logo="http://www.infobierzo.com/wp-content/themes/Infobierzo2015/images/tv1.png" group-title="España",La 1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="http://www.infobierzo.com/wp-content/themes/Infobierzo2015/images/tv1.png" group-title="España",La 1
