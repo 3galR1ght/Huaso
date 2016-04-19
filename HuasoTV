@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,[COLOR red]//////////----------HuasoTV----------\\\\\\\\\\[/COLOR]
 #EXTINF:0,-Nada-
-#EXTINF:0,[COLOR cyan]Actualizado el 07 de Abril de 2016[/COLOR] 
+#EXTINF:0,[COLOR cyan]Actualizado el 19 de Abril de 2016[/COLOR] 
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
@@ -13,8 +13,6 @@ http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b848000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN HD
-http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Chile",TVN
@@ -53,7 +51,40 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/hd/4594e24678452.5601f52106076.png" group-title="America" ,Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
-
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,Das Erste
+http://93.189.144.154:8085/media/hls_154/zdf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,Vox
+http://93.189.144.154:8085/media/hls_154/vox/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,RTL
+http://93.189.144.154:8085/media/hls_154/rtl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,RTL2
+http://93.189.144.154:8085/media/hls_154/rtl2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,Super RTL
+http://93.189.144.154:8085/media/hls_154/super_rtl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,KiKa
+http://93.189.144.154:8085/media/hls_154/kika/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,NTV
+http://93.189.144.154:8085/media/hls_154/n_tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rai 1 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1402.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rai 2 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1401.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rai 3 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1400.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rete 4 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1395.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Canale 5 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1448.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Italia 1 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1440.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Mediaset Extra 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1437.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Mediaset Italia 2 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1348.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,RSI La1 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1394.ts 
+#EXTINF:-1 tvg-logo="" group-title="ITALY" ,RSI La2 HD 
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1393.ts
 
 #EXTINF:0,
 http://127.0.0.1
