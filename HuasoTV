@@ -51,7 +51,9 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/hd/4594e24678452.5601f52106076.png" group-title="America" ,Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,Das Erste
+#EXTINF:-1 tvg-logo="" group-title="España" ,Test
+http://cdn.sstream.pw/live/antena3_9dm4nop/chunklist.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="GERMANY" ,ZDF
 http://93.189.144.154:8085/media/hls_154/zdf/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY" ,Vox
 http://93.189.144.154:8085/media/hls_154/vox/index.m3u8
@@ -65,26 +67,6 @@ http://93.189.144.154:8085/media/hls_154/super_rtl/index.m3u8
 http://93.189.144.154:8085/media/hls_154/kika/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY" ,NTV
 http://93.189.144.154:8085/media/hls_154/n_tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rai 1 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1402.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rai 2 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1401.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rai 3 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1400.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Rete 4 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1395.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Canale 5 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1448.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Italia 1 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1440.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Mediaset Extra 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1437.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,Mediaset Italia 2 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1348.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,RSI La1 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1394.ts 
-#EXTINF:-1 tvg-logo="" group-title="ITALY" ,RSI La2 HD 
-http://pciptv.blogdns.com:34505/live/vullo/vullo/1393.ts
 
 #EXTINF:0,
 http://127.0.0.1
