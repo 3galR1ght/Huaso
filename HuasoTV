@@ -72,7 +72,7 @@ http://93.189.144.154:8085/media/hls_154/n_tv/index.m3u8
 http://127.0.0.1
 #EXTINF:0, [COLOR white]Radios[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="http://www.antenne.de/assets/tpl/antenne-de/img/logo-antenne-de-header.svg" group-title="Radio", Antenne Bayern 
+#EXTINF:-1 tvg-logo="http://cdn.antenne.de/antenne-de/uploads/images/imda/logos/152x124/aby/aby152x124-2.png" group-title="Radio", Antenne Bayern 
 http://mp3channels.webradio.antenne.de/antenne.aac
 #EXTINF:-1 tvg-logo="http://www.radioimagina.cl/wp-content/themes/radio-imagina/images/logo-imagina.png" group-title="Radio", 88.1 Radio Imagina 
 http://63.243.143.155/IMAGINA_SC
