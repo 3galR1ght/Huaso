@@ -72,8 +72,8 @@ http://127.0.0.1
 http://mp3channels.webradio.antenne.de/antenne.aac
 #EXTINF:-1 tvg-logo="http://www.antennevorarlberg.at/wp-content/themes/antenne/images/Logo-mit-Endorsement.png?ver=1.14.5" group-title="Radio", Antenne Vorarlberg 
 http://webradio.antennevorarlberg.at/live
-#EXTINF:-1 tvg-logo="http://www.antennevorarlberg.at/wp-content/themes/antenne/images/Logo-mit-Endorsement.png?ver=1.14.5" group-title="Radio", Antenne Vorarlberg 
-http://cdn-static.tunein.com/201605051320/js/lib/jPlayer/blank.mp3
+#EXTINF:-1 tvg-logo="http://www.antenna1.fm/wp-content/uploads/logohome.jpg" group-title="Radio", Antenna1 Roma 
+http://167.114.251.212/stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radioimagina.cl/wp-content/themes/radio-imagina/images/logo-imagina.png" group-title="Radio", 88.1 Radio Imagina 
 http://63.243.143.155/IMAGINA_SC
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/Radioconcierto1.png/revision/latest?cb=20120325004734" group-title="Radio", 88.5 Concierto 
